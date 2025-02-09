@@ -25,6 +25,8 @@ function App() {
        <p>I am happy that my code is working properly.</p>
        <p>I am happy that my code is working properly.</p>
        <p>I am happy that my code is working properly.</p>
+       <p>I am happy that my code is working properly.</p>
+
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
